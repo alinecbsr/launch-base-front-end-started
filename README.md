@@ -1,9 +1,9 @@
-<h1 align="center" style="color: #fd951f">
-🚀 Lauch Base 
+<h1 align="center">
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="300px" />
 </h1>
 
 <h4 align="center" style="color: #6c4fbb" >
-💻 Front-End Started 
+💻 🚀 Front-End Started 
 </h4>
 
 <p align="center">
