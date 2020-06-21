@@ -2,7 +2,7 @@
 🚀 Lauch Base 
 </h1>
 
-<h4 align="center" style="color: #6c4fbb">
+<h4 align="center" style="color: #6c4fbb" >
 💻 Front-End Started 
 </h4>
 
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#floppy_disk-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#blue_heart-contributors">Contributors</a>
+  <a href="#purple_heart-contributors">Contributors</a>
 </p>
 
 ## :floppy_disk: Technology
@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 ## :computer: Project
 
-![](https://github.com/alinecbsr/launch-base-front-end-started/blob/master/started-front-end.gif)
+![](https://github.com/alinecbsr/launch-base-front-end-started/blob/master/project.gif)
 
 
 ## :purple_heart: Contribution
