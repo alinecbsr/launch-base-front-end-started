@@ -72,7 +72,6 @@ header div {
   font-size: 1.4rem;
   line-height: 2.2rem;
   font-weight: 300;
-
 }
 
 #wrapper p a {
@@ -96,6 +95,14 @@ header div {
 
 .card {
   background-color: var(--color-purple);
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: var(--color-purple);
+  cursor: pointer;
+  filter: brightness(70%);
+  transition: all 200ms;
 }
 
 .card__image-container img{
@@ -119,7 +126,6 @@ header div {
   border-radius: 1.25rem;
   text-align: center;
 }
-
 
 /*=== MODAL ===*/
 
